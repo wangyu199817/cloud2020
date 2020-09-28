@@ -1,3 +1,4 @@
 # Project exclude paths
 /cloud-comsumer-order80/target/
 /cloud-provider-payment8001/target/
+.idea/
