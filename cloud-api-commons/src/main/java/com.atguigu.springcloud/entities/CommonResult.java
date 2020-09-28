@@ -12,6 +12,9 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+/**
+ * JSON类
+ */
 public class CommonResult<T>{
     private Integer code;
     private String message;
