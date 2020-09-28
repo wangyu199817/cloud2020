@@ -96,8 +96,6 @@
         <version>${druid.version}</version>
       </dependency>
     </dependencies>
-
-
   </dependencyManagement>
   <build>
     <finalName>cloud2020</finalName>
