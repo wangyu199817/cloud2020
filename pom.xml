@@ -14,7 +14,6 @@
     <module>cloud-comsumer-order80</module>
       <module>cloud-api-commons</module>
       <module>cloud-eureka-server7001</module>
-    <module>cloud-order-service</module>
     <module>cloud-order-server7002</module>
   </modules>
 
