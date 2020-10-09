@@ -16,8 +16,8 @@ eureka:
     register-with-eureka: true
     service-url:
 #      defaultZone: http://localhost:7001/eureka/
-#      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/
-      defaultZone: http://eureka7001.com:7001/eureka/
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/
+#      defaultZone: http://eureka7001.com:7001/eureka/
   instance:
     instance-id: payment8001
 #    访问路劲可以显示ip地址
